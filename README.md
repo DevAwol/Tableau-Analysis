@@ -6,7 +6,7 @@ efficiently.
 
 **[Interactive dashboard →](https://public.tableau.com/app/profile/awol.ler/viz/Viz2PersonalPractice/Dashboard1#1)**
 
-![dashboard](dashboard.png)
+![dashboard]([dashboard.png](https://github.com/DevAwol/Tableau-Analysis/blob/main/Dashboard.png))
 
 ## Data
 
