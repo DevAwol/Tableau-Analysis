@@ -17,12 +17,12 @@ headcount are self-reported.
 
 ## Findings
 
-1. Median growth falls from [X]% to [Y]% as starting revenue rises from
+1. Median growth falls from 2281% to 90% as starting revenue rises from
    under $250K to over $25M.
-2. Median revenue per employee rises from roughly $[X] to $[Y] across
+2. Median revenue per employee rises from roughly $142k to $644k across
    revenue tiers — larger companies scaled without proportional hiring.
-3. [Industry] adds the most revenue per company; [Industry] contributes the
-   most companies but ranks [Nth] per company.
+3. Energy Companies adds the most revenue per company; IT services contributes the
+   most companies but ranks 16th per company out of 25.
 
 ## Limitations
 
