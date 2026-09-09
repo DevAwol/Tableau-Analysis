@@ -13,7 +13,7 @@ efficiently.
 2014 Inc. 5000: 5,000 privately held US companies ranked by revenue growth.
 Revenue and headcount are self-reported. The file carries final-year revenue
 and a growth percentage; base-year revenue is derived. The measurement
-window isn't stated in the data — Inc's methodology for this edition
+window isn't stated in the data, Inc's methodology for this edition
 describes 2010–2013.
 
 ## Findings
@@ -31,9 +31,9 @@ Growth is measured against base-year revenue, so plotting the two together
 produces negative correlation regardless of any real effect (Pearson, 1897).
 
 Companies were selected for high growth, so these figures describe variation
-within an already-filtered group.
+within an already filtered group.
 
-Headcount is point-in-time — revenue per employee measures current
+Headcount is point-in-time revenue per employee measures current
 efficiency, not change in efficiency. Growth is nominal.
 
 ## Recommendation
@@ -43,5 +43,5 @@ function of starting size.
 
 ## Files
 
-- `calculations.md` — Tableau calculated fields
-- `dashboard.png` — static export
+- `calculations.md`: Tableau calculated fields
+- `dashboard.png`: static export
