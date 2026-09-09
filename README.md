@@ -11,8 +11,8 @@ efficiently.
 ## Data
 
 2014 Inc. 5000: 5,000 privately held US companies ranked by revenue growth.
-Revenue and headcount are self-reported. The file carries final-year revenue
-and a growth percentage; base-year revenue is derived. The measurement
+Revenue and headcount are self reported. The file carries final-year revenue
+and a growth percentage; base year revenue is derived. The measurement
 window isn't stated in the data, Inc's methodology for this edition
 describes 2010–2013.
 
