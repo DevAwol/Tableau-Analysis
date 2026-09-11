@@ -4,7 +4,7 @@ Growth rate on this list mostly tracks how small a company started. Larger
 companies grow slower but convert revenue into headcount far more
 efficiently.
 
-**[Interactive dashboard →](https://public.tableau.com/app/profile/awol.ler/viz/Viz2PersonalPractice/Dashboard1#1)**
+**[Interactive dashboard →](https://public.tableau.com/views/Inc_5000GrowthAnalysis/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ![dashboard](https://github.com/DevAwol/Tableau-Analysis/blob/main/Dashboard.png)
 
