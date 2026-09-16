@@ -6,7 +6,7 @@ efficiently.
 
 **[Interactive dashboard →](https://public.tableau.com/views/Inc_5000GrowthAnalysis/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-![dashboard](https://github.com/DevAwol/Tableau-Analysis/blob/main/Dashboard.png)
+![Dashboard](https://github.com/DevAwol/Tableau-Analysis/blob/main/Dashboard.png)
 
 ## Data
 
