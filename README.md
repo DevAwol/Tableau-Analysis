@@ -21,7 +21,7 @@ describes 2010–2013.
 1. Median growth falls from 2,281% to 90% as starting revenue rises from
    under $250K to over $25M.
 2. Median revenue per employee rises from $142K to $644K across revenue
-   tiers. Larger companies scaled without proportional hiring.
+   tiers.
 3. Energy adds the most revenue per company. IT Services contributes the
    most companies but ranks 16th of 25 per company.
 
@@ -33,7 +33,7 @@ produces negative correlation regardless of any real effect (Pearson, 1897).
 Companies were selected for high growth, so these figures describe variation
 within an already filtered group.
 
-Headcount is point-in-time revenue per employee measures current
+Headcount is point-in-time, so revenue per employee measures current 
 efficiency, not change in efficiency. Growth is nominal.
 
 ## Recommendation
